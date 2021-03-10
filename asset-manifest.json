@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/types-of-dish-and-beer/static/css/main.913dff5b.chunk.css",
+    "main.js": "/types-of-dish-and-beer/static/js/main.99d7dfea.chunk.js",
+    "main.js.map": "/types-of-dish-and-beer/static/js/main.99d7dfea.chunk.js.map",
+    "runtime-main.js": "/types-of-dish-and-beer/static/js/runtime-main.70a7c875.js",
+    "runtime-main.js.map": "/types-of-dish-and-beer/static/js/runtime-main.70a7c875.js.map",
+    "static/js/2.c3777797.chunk.js": "/types-of-dish-and-beer/static/js/2.c3777797.chunk.js",
+    "static/js/2.c3777797.chunk.js.map": "/types-of-dish-and-beer/static/js/2.c3777797.chunk.js.map",
+    "index.html": "/types-of-dish-and-beer/index.html",
+    "static/css/main.913dff5b.chunk.css.map": "/types-of-dish-and-beer/static/css/main.913dff5b.chunk.css.map",
+    "static/js/2.c3777797.chunk.js.LICENSE.txt": "/types-of-dish-and-beer/static/js/2.c3777797.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70a7c875.js",
+    "static/js/2.c3777797.chunk.js",
+    "static/css/main.913dff5b.chunk.css",
+    "static/js/main.99d7dfea.chunk.js"
+  ]
+}
